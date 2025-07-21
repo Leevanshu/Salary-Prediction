@@ -12,10 +12,6 @@ Easy-to-use sliders and input fields
 
 Deployed-ready Python code and model integration
 
-📁 Project Structure
-bash
-Copy
-Edit
 salary_predector_app-main/
 │
 ├── streamlit_app.py              # Streamlit app script
@@ -23,6 +19,7 @@ salary_predector_app-main/
 ├── model_lightgbm_v2.pkl         # Pre-trained LightGBM model
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Project documentation
+
 🚀 Getting Started
 1. Clone the Repository
 bash
