@@ -1,4 +1,6 @@
 Salary Predictor App
+
+
 This is a machine learning-based web application that predicts an individual's salary based on various inputs. The application is built using Streamlit and uses a pre-trained LightGBM model for salary prediction.
 
 🔍 Features
