@@ -13,29 +13,29 @@ st.markdown("""
     <style>
     .main {
         background-color: #f9f9f9;
-        padding: 3rem;
-        border-radius: 5px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        padding: 2rem;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         font-family: 'Segoe UI', sans-serif;
     }
-    h2 {
+    h1 {
         color: #1f77b4;
         text-align: center;
     }
     .stButton > button {
         background-color: #1f77b4;
         color: white;
-        border-radius: 10px;
-        height: 4em;
+        border-radius: 8px;
+        height: 3em;
         width: 100%;
-        font-size: 20px;
+        font-size: 16px;
     }
     .stSuccess {
         background-color: #d4edda;
         color: #155724;
-        padding: 2rem;
-        border-radius: 5px;
-        font-size: 22px;
+        padding: 1rem;
+        border-radius: 8px;
+        font-size: 18px;
     }
     </style>
 """, unsafe_allow_html=True)
